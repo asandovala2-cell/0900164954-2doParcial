@@ -13,3 +13,5 @@ The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
 you'll be creating yourself during the tutorial and the `jenkins/scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
+Nombre: Alex Estuardo Sandoval Alvarez
+Carnet: 0900-16-4954
